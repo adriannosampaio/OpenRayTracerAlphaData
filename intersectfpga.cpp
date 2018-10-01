@@ -26,7 +26,6 @@
  *	Max resolution supported of 1920x1080 (Full HD)
  */
 #define MAX_RAYS 2073600
-replacing for 2000 rays
 #define MAX_RDATA 12441600
 #define RAY_PARAMETERS 6
 
